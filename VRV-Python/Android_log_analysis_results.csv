@@ -1,0 +1,35 @@
+Log Priority,Count
+D,650
+V,257
+I,920
+W,170
+E,3
+
+Source,Count
+WindowManager:,86
+PowerManagerService:,387
+TextView:,10
+StackScrollAlgorithm:,156
+ActivityManager:,253
+PhoneStatusBar:,507
+AlarmManager:,13
+PhoneInterfaceManager:,80
+TelephonyManager:,5
+DisplayPowerController:,255
+AudioManager:,66
+PanelView:,60
+NotificationManager:,79
+KeyguardUpdateMonitor:,22
+DisplayManagerService:,12
+MediaPlayer:,3
+DeviceIdleController:,1
+WifiService:,2
+WifiController:,3
+
+Keyword,Count
+
+Minute,Activity Count
+1900-03-17 16:13,432
+1900-03-17 16:14,422
+1900-03-17 16:15,832
+1900-03-17 16:16,314
